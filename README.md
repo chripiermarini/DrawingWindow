@@ -1,4 +1,4 @@
-# DrawPad 🎨  
+# DrawingWindow 🎨  
 
 A simple drawing application that allows you to create art using your cursor! 
 This project creates a blank canvas (a white window) where you can draw freely with your mouse. 
@@ -23,4 +23,4 @@ It's great for experimenting with basic drawing functionality and learning GUI p
 1. Clone or download this repository:  
    ```bash  
    git clone https://github.com/your-username/DrawPad.git  
-   cd DrawPad  
+   cd DrawingWindow  
