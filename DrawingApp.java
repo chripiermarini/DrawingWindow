@@ -1,4 +1,5 @@
-package DrawingApp;
+package drawing_app_package;
+
 import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.event.MouseAdapter;
